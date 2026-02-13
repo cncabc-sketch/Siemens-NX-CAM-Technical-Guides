@@ -33,3 +33,9 @@ Our tutorials bridge the gap between software settings and shop-floor reality. E
 
 ---
 *Developed by the technical team at [ugnx.cc](https://www.ugnx.cc). Empowering the global CNC community.*
+
+
+## 📚 Latest NX CAM Tutorials
+| Date | Topic | Resource | Tutorial |
+|---|---|---|---|
+| 2026-02-13 | **Master Wang's Guide: Analyzing Parts Before Programming in Siemens NX 1980** | [📖 Read Article & Download Materials](https://www.ugnx.cc/analyzing-parts-before-programming/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/hpijG5vM_6U) |
