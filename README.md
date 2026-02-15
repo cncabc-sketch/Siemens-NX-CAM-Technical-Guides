@@ -38,6 +38,7 @@ Our tutorials bridge the gap between software settings and shop-floor reality. E
 ## 📚 Latest NX CAM Tutorials
 | Date | Topic | Resource | Tutorial |
 |---|---|---|---|
+| 2026-02-15 | **UG NX 1980: Advanced Toolpath Connection and Optimization Explained by a Master CNC Engineer** | [📖 Read Article & Download Materials](https://www.ugnx.cc/more-connection/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/hApevLsEgh4) |
 | 2026-02-15 | **UG NX 1980 Space Range Parameters Explained: Master Wang's Practical Guide to Face Milling, Toolpath Merging, and Collision Avoidance for Efficiency and Precision** | [📖 Read Article & Download Materials](https://www.ugnx.cc/space-range-parameters/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/KhDoXKPtgiQ) |
 | 2026-02-15 | **Siemens NX Cornering Strategies: Master Wang's In-Depth Guide to Preventing Residual Material, Improving Surface Finish, and Boosting Efficiency** | [📖 Read Article & Download Materials](https://www.ugnx.cc/nx-programming/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/EniwwQNGdNU) |
 | 2026-02-15 | **UG NX 1980 Cutting Parameter Strategy & Stock Management Tutorial** | [📖 Read Article & Download Materials](https://www.ugnx.cc/cutting-parameter-strategy-and-stock/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/zuN3HPNStOE) |
