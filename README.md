@@ -38,6 +38,7 @@ Our tutorials bridge the gap between software settings and shop-floor reality. E
 ## 📚 Latest NX CAM Tutorials
 | Date | Topic | Resource | Tutorial |
 |---|---|---|---|
+| 2026-02-15 | **Siemens NX 1980 Feed Rate & Spindle Speed Real-World Setup: Master Wang's Practical Guide to Optimal Machining Parameters** | [📖 Read Article & Download Materials](https://www.ugnx.cc/feed-rate-spindle-speed/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/J1KrJjvb-Dk) |
 | 2026-02-14 | **Siemens NX Toolpath Colors, Stepover, and Depth of Cut (DOC): Master Wang's Practical Machining Tips to Boost Efficiency and Eliminate Scrap!** | [📖 Read Article & Download Materials](https://www.ugnx.cc/toolpath-colors/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/-KAnyBBwxcQ) |
 | 2026-02-14 | **UG NX 1980 Tool Axis and Cutting Method Explained** | [📖 Read Article & Download Materials](https://www.ugnx.cc/tool-axis-and-cutting-method/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/8RdA0xDzdw8) |
 | 2026-02-13 | **Master Wang's Practical Guide: Siemens NX 1980 Tool Management – Selection, Creation, and Parameter Optimization for Efficient Machining** | [📖 Read Article & Download Materials](https://www.ugnx.cc/tool-usage-and-creation/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/owlS0kPvHP8) |
