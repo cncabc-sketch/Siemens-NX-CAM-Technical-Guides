@@ -38,6 +38,7 @@ Our tutorials bridge the gap between software settings and shop-floor reality. E
 ## 📚 Latest NX CAM Tutorials
 | Date | Topic | Resource | Tutorial |
 |---|---|---|---|
+| 2026-02-20 | **Siemens NX CNC Programming in Practice: Master Wang Guides You Step-by-Step Through Finishing Pass for Bottom Faces and Sidewalls, Eliminating Tool Marks and Achieving ±0.005mm Precision!** | [📖 Read Article & Download Materials](https://www.ugnx.cc/siemens-nx/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/DIcpsxE7s-Q) |
 | 2026-02-19 | **Siemens NX 1980 Floor-Wall Milling: Practical Roughing and Finishing Strategies** | [📖 Read Article & Download Materials](https://www.ugnx.cc/cnc-machining-strategies/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/vGSsFQvmVqQ) |
 | 2026-02-19 | **In-depth Analysis of Non-Cutting Moves in Siemens NX: Master Wang Teaches You How to Optimize Tool Paths, Say Goodbye to Collisions and Air Cuts** | [📖 Read Article & Download Materials](https://www.ugnx.cc/nx-cam/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/WCDIrbU26tU) |
 | 2026-02-19 | **UG NX 1980 Approach, Open Area, and Retract Explained** | [📖 Read Article & Download Materials](https://www.ugnx.cc/approach-open-area-retract/?utm_source=github&utm_medium=readme_table&utm_campaign=nx_tutorials) | [📺 Watch Video](https://youtu.be/b3oCFz89dNU) |
